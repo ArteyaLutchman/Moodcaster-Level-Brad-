@@ -1,0 +1,798 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &826098716616266045
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7096486373735619109}
+    m_Modifications:
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.154
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.23
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.004
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2055595481192961110, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_Name
+      value: Chandlier Lights (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2da1773c720cee1488b934c34bedee01, type: 3}
+--- !u!4 &456091953475667499 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+    type: 3}
+  m_PrefabInstance: {fileID: 826098716616266045}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1231449846806927043
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7096486373735619109}
+    m_Modifications:
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.96
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.062
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2055595481192961110, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_Name
+      value: Chandlier Lights (7)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2da1773c720cee1488b934c34bedee01, type: 3}
+--- !u!4 &2032324427393761749 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+    type: 3}
+  m_PrefabInstance: {fileID: 1231449846806927043}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4376401669297899234
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7096486373735619109}
+    m_Modifications:
+    - target: {fileID: 998295642320896034, guid: 399326d6a910287489af1639f4fad54c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.16281343
+      objectReference: {fileID: 0}
+    - target: {fileID: 998295642320896034, guid: 399326d6a910287489af1639f4fad54c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -13.087765
+      objectReference: {fileID: 0}
+    - target: {fileID: 998295642320896034, guid: 399326d6a910287489af1639f4fad54c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.18605447
+      objectReference: {fileID: 0}
+    - target: {fileID: 998295642320896034, guid: 399326d6a910287489af1639f4fad54c,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 998295642320896034, guid: 399326d6a910287489af1639f4fad54c,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 998295642320896034, guid: 399326d6a910287489af1639f4fad54c,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 998295642320896034, guid: 399326d6a910287489af1639f4fad54c,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 998295642320896034, guid: 399326d6a910287489af1639f4fad54c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 998295642320896034, guid: 399326d6a910287489af1639f4fad54c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 998295642320896034, guid: 399326d6a910287489af1639f4fad54c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2090802887764536750, guid: 399326d6a910287489af1639f4fad54c,
+        type: 3}
+      propertyPath: m_Name
+      value: Hanging lights (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 399326d6a910287489af1639f4fad54c, type: 3}
+--- !u!4 &3559729065163622080 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 998295642320896034, guid: 399326d6a910287489af1639f4fad54c,
+    type: 3}
+  m_PrefabInstance: {fileID: 4376401669297899234}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6344525848379171160
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7096486373735619109}
+    m_Modifications:
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.776
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.776
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2055595481192961110, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_Name
+      value: Chandlier Lights (8)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2da1773c720cee1488b934c34bedee01, type: 3}
+--- !u!4 &6138109372601595470 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+    type: 3}
+  m_PrefabInstance: {fileID: 6344525848379171160}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6685563048868509430
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7096486373735619109}
+    m_Modifications:
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.081
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.23
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.883
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2055595481192961110, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_Name
+      value: Chandlier Lights (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2da1773c720cee1488b934c34bedee01, type: 3}
+--- !u!4 &5901225670235496928 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+    type: 3}
+  m_PrefabInstance: {fileID: 6685563048868509430}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7032814200463959747
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7096486373735619109}
+    m_Modifications:
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.753
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.71
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2055595481192961110, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_Name
+      value: Chandlier Lights (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2da1773c720cee1488b934c34bedee01, type: 3}
+--- !u!4 &7834902225007636949 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+    type: 3}
+  m_PrefabInstance: {fileID: 7032814200463959747}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7097499606351190405
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7096486373735619109}
+    m_Modifications:
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.23
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.223
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2055595481192961110, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_Name
+      value: Chandlier Lights (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2da1773c720cee1488b934c34bedee01, type: 3}
+--- !u!4 &8024811012816162451 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+    type: 3}
+  m_PrefabInstance: {fileID: 7097499606351190405}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7345777534204919246
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: a0395a808f9fd724395ab5b3f8107d30,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.43
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a0395a808f9fd724395ab5b3f8107d30,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.33
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a0395a808f9fd724395ab5b3f8107d30,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.42999995
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a0395a808f9fd724395ab5b3f8107d30,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -19.57126
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a0395a808f9fd724395ab5b3f8107d30,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 9.21
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a0395a808f9fd724395ab5b3f8107d30,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 6.786837
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a0395a808f9fd724395ab5b3f8107d30,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a0395a808f9fd724395ab5b3f8107d30,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a0395a808f9fd724395ab5b3f8107d30,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a0395a808f9fd724395ab5b3f8107d30,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a0395a808f9fd724395ab5b3f8107d30,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a0395a808f9fd724395ab5b3f8107d30,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a0395a808f9fd724395ab5b3f8107d30,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a0395a808f9fd724395ab5b3f8107d30,
+        type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a0395a808f9fd724395ab5b3f8107d30,
+        type: 3}
+      propertyPath: m_Name
+      value: 3DArt_Props_Chandelier1_Model_Jacob_V1 (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: a0395a808f9fd724395ab5b3f8107d30,
+        type: 3}
+      insertIndex: 0
+      addedObject: {fileID: 3559729065163622080}
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: a0395a808f9fd724395ab5b3f8107d30,
+        type: 3}
+      insertIndex: 1
+      addedObject: {fileID: 8024811012816162451}
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: a0395a808f9fd724395ab5b3f8107d30,
+        type: 3}
+      insertIndex: 2
+      addedObject: {fileID: 9194743122406925890}
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: a0395a808f9fd724395ab5b3f8107d30,
+        type: 3}
+      insertIndex: 3
+      addedObject: {fileID: 456091953475667499}
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: a0395a808f9fd724395ab5b3f8107d30,
+        type: 3}
+      insertIndex: 4
+      addedObject: {fileID: 5901225670235496928}
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: a0395a808f9fd724395ab5b3f8107d30,
+        type: 3}
+      insertIndex: 5
+      addedObject: {fileID: 7675221684493328002}
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: a0395a808f9fd724395ab5b3f8107d30,
+        type: 3}
+      insertIndex: 6
+      addedObject: {fileID: 7834902225007636949}
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: a0395a808f9fd724395ab5b3f8107d30,
+        type: 3}
+      insertIndex: 7
+      addedObject: {fileID: 2032324427393761749}
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: a0395a808f9fd724395ab5b3f8107d30,
+        type: 3}
+      insertIndex: 8
+      addedObject: {fileID: 6138109372601595470}
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a0395a808f9fd724395ab5b3f8107d30, type: 3}
+--- !u!4 &7096486373735619109 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: a0395a808f9fd724395ab5b3f8107d30,
+    type: 3}
+  m_PrefabInstance: {fileID: 7345777534204919246}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7467359762974034324
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7096486373735619109}
+    m_Modifications:
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.053
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.23
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -4.213
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2055595481192961110, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_Name
+      value: Chandlier Lights (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2da1773c720cee1488b934c34bedee01, type: 3}
+--- !u!4 &7675221684493328002 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+    type: 3}
+  m_PrefabInstance: {fileID: 7467359762974034324}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8266624810923241812
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7096486373735619109}
+    m_Modifications:
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.966
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.23
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.981
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2055595481192961110, guid: 2da1773c720cee1488b934c34bedee01,
+        type: 3}
+      propertyPath: m_Name
+      value: Chandlier Lights (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2da1773c720cee1488b934c34bedee01, type: 3}
+--- !u!4 &9194743122406925890 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 946522629219899158, guid: 2da1773c720cee1488b934c34bedee01,
+    type: 3}
+  m_PrefabInstance: {fileID: 8266624810923241812}
+  m_PrefabAsset: {fileID: 0}
